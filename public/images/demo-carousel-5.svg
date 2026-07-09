@@ -1,0 +1,18 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g5" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1320"/>
+      <stop offset="1" stop-color="#173B49"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g5)"/>
+  <rect x="140" y="180" width="650" height="540" rx="30" fill="#111E33" stroke="#6CE7CC" stroke-opacity="0.65" stroke-width="2"/>
+  <rect x="210" y="250" width="510" height="200" rx="16" fill="#1A2B47"/>
+  <rect x="210" y="470" width="510" height="180" rx="16" fill="#16253E"/>
+  <circle cx="260" cy="560" r="34" fill="#62EBCF" fill-opacity="0.5"/>
+  <circle cx="355" cy="560" r="34" fill="#68B8FF" fill-opacity="0.5"/>
+  <circle cx="450" cy="560" r="34" fill="#B89CFF" fill-opacity="0.5"/>
+  <text x="900" y="298" fill="#E8FFFA" font-size="46" font-family="Segoe UI, Arial, sans-serif" font-weight="700">3D & Visual Effects</text>
+  <text x="900" y="382" fill="#C7F7EC" font-size="31" font-family="Segoe UI, Arial, sans-serif">Rendering pipelines and cinematic post production.</text>
+  <text x="900" y="442" fill="#9EDDCB" font-size="28" font-family="Segoe UI, Arial, sans-serif">Sample Slide 5</text>
+</svg>

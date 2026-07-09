@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Inventive Multimedia logo</title>
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a9fe6" />
+      <stop offset="100%" stop-color="#036fb9" />
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e13e40" />
+      <stop offset="100%" stop-color="#ba2327" />
+    </linearGradient>
+  </defs>
+  <path d="M16 16H34V104H16Z" fill="url(#blueGrad)" />
+  <path d="M34 16H60L80 80L100 16H126V104H100V56L80 102L60 56V104H34Z" fill="url(#redGrad)" />
+  <path d="M10 62C28 52 92 20 150 34" stroke="#36d23d" stroke-width="12" stroke-linecap="round" />
+</svg>

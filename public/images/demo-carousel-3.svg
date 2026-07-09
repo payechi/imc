@@ -1,0 +1,16 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071725"/>
+      <stop offset="1" stop-color="#0E3D58"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g3)"/>
+  <rect x="120" y="180" width="650" height="540" rx="30" fill="#0A2437" stroke="#57D2FF" stroke-opacity="0.6" stroke-width="2"/>
+  <path d="M210 610L320 420L430 520L540 340L670 610H210Z" fill="#3BBCE8" fill-opacity="0.45"/>
+  <circle cx="330" cy="330" r="55" fill="#79E5FF" fill-opacity="0.55"/>
+  <rect x="900" y="250" width="560" height="84" rx="16" fill="#0D2A3F"/>
+  <text x="930" y="307" fill="#E8F8FF" font-size="42" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Photo Editing Lab</text>
+  <text x="900" y="390" fill="#C1E8FA" font-size="31" font-family="Segoe UI, Arial, sans-serif">Retouching, color grading, and composition mastery.</text>
+  <text x="900" y="450" fill="#8FD0EA" font-size="28" font-family="Segoe UI, Arial, sans-serif">Sample Slide 3</text>
+</svg>
